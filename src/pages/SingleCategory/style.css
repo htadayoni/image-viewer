@@ -1,0 +1,28 @@
+
+.images__content{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.images__container--area img {
+  margin-bottom: 20px;
+}
+
+.images__loadMore{
+  text-align: center;
+}
+
+.images__loadMore button{
+  cursor: pointer;
+  background-color: cadetblue;
+  color: #fff;
+  border: none;
+  line-height: 30px;
+  padding: 0 20px;
+}
+
+.images__loadMore button:hover{
+  background-color: cornflowerblue;
+}

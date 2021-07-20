@@ -1,0 +1,9 @@
+.topMenu__container--area{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin: 10px 0
+}
