@@ -1,0 +1,5 @@
+.categories__container--area{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
